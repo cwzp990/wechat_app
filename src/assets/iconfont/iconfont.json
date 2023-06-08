@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "159926",
+      "name": "Message",
+      "font_class": "xiaoxi",
+      "unicode": "f016c",
+      "unicode_decimal": 983404
+    },
+    {
+      "icon_id": "330201",
+      "name": "my",
+      "font_class": "my",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    },
+    {
+      "icon_id": "8106227",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "12594921",
+      "name": "publish",
+      "font_class": "publish",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    }
+  ]
+}

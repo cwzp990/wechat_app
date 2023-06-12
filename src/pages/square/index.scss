@@ -1,0 +1,31 @@
+@import "~taro-ui/dist/style/components/tabs.scss";
+
+.category-container {
+  display: flex;
+  flex-direction: column;
+  padding: 30rpx 0 30rpx 30rpx;
+
+  .category-item {
+    height: 150px;
+    margin-bottom: 30rpx;
+
+    .card {
+      position: relative;
+      border-radius: 20rpx;
+      width: 300rpx;
+      height: 150rpx;
+      background-image: linear-gradient(to right, #e68d44, #eb6d59);
+
+      .name {
+        position: absolute;
+        top: 20rpx;
+        left: 20rpx;
+        color: #fff;
+      }
+    }
+  }
+
+  .card-container {
+    height: calc(100vh - 410rpx);
+  }
+}
